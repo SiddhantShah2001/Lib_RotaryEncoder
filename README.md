@@ -1,4 +1,4 @@
-# RotaryEncoder
+# Rotary Encoder
 
 Arduino Library to Interface Incremental Rotary Encoders.
 
