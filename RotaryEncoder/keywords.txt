@@ -1,0 +1,16 @@
+###############
+#Keywords.txt
+###############
+
+RotaryEncoder	KEYWORD1
+getDir	KEYWORD2
+getBut	KEYWORD2
+getButDur	KEYWORD2
+
+RE	KEYWORD2
+CLK	LITERAL1
+DT	LITERAL1
+SW	LITERAL1
+CLK_SPD	LITERAL1
+
+RE_COUNT	LITERAL1
