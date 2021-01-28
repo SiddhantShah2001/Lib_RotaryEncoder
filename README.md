@@ -6,14 +6,14 @@ Tested with Arduino Boards, ESP8266, ESP32.
 
 # Functions/Features:
 
-> #  bool getBut():
+> #  bool getBut()
     
         Get Button Press,
         Returns '1' if Pressed.
         Returns '0' if Released/Idle.
         
     
-> # float getButDur(float THRESHOLD, bool MODE):
+> # float getButDur(float THRESHOLD, bool MODE)
     
         Get Long Button Press with Customizable Threshold Value, as a Long Button Press Detector or Button Press Duration Counter.
         
@@ -33,7 +33,7 @@ Tested with Arduino Boards, ESP8266, ESP32.
             Default is set to False, Long Press Detection Mode.
             
             
-> # long getDir(bool MODE):
+> # long getDir(bool MODE)
     
         Get Spindle Rotation Direction, as Direction or Counter.
         
